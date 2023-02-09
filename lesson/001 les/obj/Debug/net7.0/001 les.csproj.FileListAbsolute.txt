@@ -1,0 +1,15 @@
+/Users/egorkrylov/123/lesson/001 les/bin/Debug/net7.0/001 les
+/Users/egorkrylov/123/lesson/001 les/bin/Debug/net7.0/001 les.deps.json
+/Users/egorkrylov/123/lesson/001 les/bin/Debug/net7.0/001 les.runtimeconfig.json
+/Users/egorkrylov/123/lesson/001 les/bin/Debug/net7.0/001 les.dll
+/Users/egorkrylov/123/lesson/001 les/bin/Debug/net7.0/001 les.pdb
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.csproj.AssemblyReference.cache
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.GeneratedMSBuildEditorConfig.editorconfig
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.AssemblyInfoInputs.cache
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.AssemblyInfo.cs
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.csproj.CoreCompileInputs.cache
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.dll
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/refint/001 les.dll
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.pdb
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/001 les.genruntimeconfig.cache
+/Users/egorkrylov/123/lesson/001 les/obj/Debug/net7.0/ref/001 les.dll
